@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_keyword": [
+        "revanced"
+        "returnyoutubedislike"
+      ],
+      "domain_suffix": [
+        "ajay.app",
+        "returnyoutubedislike.com",
+        "returnyoutubedislikeapi.com",
+        "revanced.app"
+      ]
+    }
+  ]
+}
